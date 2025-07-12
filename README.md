@@ -35,7 +35,7 @@ Una aplicación educativa desarrollada en Python (usando Flask y Ngrok) que perm
 
 ```bash
 git clone https://github.com/Brxyden2007/IPLogger.git
-cd IP LOGGER
+cd IP logger
 ```
 
 2. Instala las dependencias:
